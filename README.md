@@ -230,8 +230,7 @@ The interactive dashboard provides an overview of:
 * Previous Campaign Outcomes
 * Customer Financial Characteristics
 
->![Dashboard](<img width="1873" height="702" alt="Screenshot 2026-07-10 004238" src="https://github.com/user-attachments/assets/1e9a052b-5dbe-44d5-9ece-c4a95095489e" />
-)
+![Bank Marketing Dashboard](images/dashboard.png)
 
 
 ## Skills Demonstrated
