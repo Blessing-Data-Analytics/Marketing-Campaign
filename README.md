@@ -256,15 +256,13 @@ This project strengthened my ability to move beyond creating dashboards and inst
 
 Rather than simply reporting numbers, I focused on understanding customer behavior, identifying business opportunities, and translating analytical findings into practical recommendations that decision makers can act upon.
 
-It also reinforced the importance of asking business-driven questions before creating visualizations, ensuring every analysis contributes to solving a real organizational problem.
+It also reinforced the importance of asking business driven questions before creating visualizations, ensuring every analysis contributes to solving a real organizational problem.
 
 ---
 
 ##  About Me
 
-Hi! I'm **Blessing**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights.
-
-I'm currently building projects in **Excel, SQL, Power BI, and Python** while continuously improving my analytical thinking and storytelling skills.
+Hi! I'm **Blessing**, a Junior Data Analyst passionate about generating insights and reporting data from an unstructured dataset.
 
 I'm actively seeking opportunities where I can contribute, learn, and grow as a Data Analyst.
 
